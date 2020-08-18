@@ -87,3 +87,5 @@ Talk to me about
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=tokyonight&layout=compact)](https://github.com/TausifAnsari)
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=TausifAnsari" alt="abdulahadsiddiqui11" /> </p>
+

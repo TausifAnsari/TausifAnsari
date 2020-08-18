@@ -82,10 +82,8 @@ Talk to me about
   <summary>:zap: Github Stats</summary>
 
   <img align="center" alt="Tausif Ansari Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook)](https://github.com/TausifAnsari)
 
-</details
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=tokyonight&layout=compact)](https://github.com/TausifAnsari)
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=TausifAnsari" alt="abdulahadsiddiqui11" /> </p>
+</details>
 

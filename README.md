@@ -56,6 +56,10 @@ Talk to me about
   <img align="left" alt="Abdul Ahad's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<a href="https://leetcode.com//">
+  <img align="left" alt="" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
 <br>
 <br>
 

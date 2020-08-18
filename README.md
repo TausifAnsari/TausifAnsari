@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikafroz0016@gmail.com)
-## 👯 Communities
-- Facebook Developer Circle 
+--> 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
@@ -25,6 +21,11 @@ Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (React)**
 - Backend development using **Mongo,Express,Node**
 - Solving Data structure and algorithm questions in **Python**
+
+## 👯 Communities
+- Facebook Developer Circle
+- Google Developer Group
+- AWS User Group
 
 ### Connect with me:
 
@@ -64,6 +65,7 @@ Talk to me about
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 ---
 

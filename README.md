@@ -73,6 +73,8 @@ Talk to me about
 
   <img align="center" alt="Tausif Ansari Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=vue-dark&layout=compact" />
   
+  [![Top Langs](https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=vue-dark&layout=compact)](https://github.com/TausifAnsari)
+  
   <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=vue-dark&layout=compact&hide=Jupyter%20Notebook)](https://github.com/TausifAnsari)

@@ -71,11 +71,11 @@ Talk to me about
   <summary>:zap: Github Stats</summary>
   <br>
 
-  <img align="center" alt="Tausif Ansari Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="center" alt="Tausif Ansari Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=vuedark" />
   
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook)](https://github.com/TausifAnsari)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=vuedark&layout=compact&hide=Jupyter%20Notebook)](https://github.com/TausifAnsari)
 
 </details>
 

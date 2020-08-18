@@ -81,7 +81,7 @@ Talk to me about
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="center" alt="Shaik Afroz Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shaikafroz016&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="center" alt="Tausif Ansari Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details
 

@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 --> 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+<br>
+<br>
 
 ## ⚡ Technologies
 Talk to me about
@@ -22,10 +24,16 @@ Talk to me about
 - Backend development using **Mongo,Express,Node**
 - Solving Data structure and algorithm questions in **Python**
 
+<br>
+<br>
+
 ## 👯 Communities
 - Facebook Developer Circle
 - Google Developer Group
 - AWS User Group
+
+<br>
+<br>
 
 ### Connect with me:
 
@@ -47,7 +55,9 @@ Talk to me about
   <img align="left" alt="Shaik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<br />
+<br>
+<br>
+
 
 ### Languages and Tools:
 <code><img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>

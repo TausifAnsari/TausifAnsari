@@ -16,7 +16,6 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br>
-<br>
 
 ## ⚡ Technologies
 Talk to me about
@@ -25,14 +24,12 @@ Talk to me about
 - Solving Data structure and algorithm questions in **Python**
 
 <br>
-<br>
 
 ## 👯 Communities
 - Facebook Developer Circle
 - Google Developer Group
 - AWS User Group
 
-<br>
 <br>
 
 ### Connect with me:
@@ -55,7 +52,6 @@ Talk to me about
   <img align="left" alt="Shaik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<br>
 <br>
 
 

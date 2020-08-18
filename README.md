@@ -26,11 +26,6 @@ Talk to me about
 - Backend development using **Mongo,Express,Node**
 - Solving Data structure and algorithm questions in **Python**
 
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/9uuqgtfntajkmwecw85lw2xow)
-
-
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/shaik-afroz-449b60199/" target="_blank">
@@ -80,8 +75,11 @@ Talk to me about
 
 <details>
   <summary>:zap: Github Stats</summary>
+  <br>
 
   <img align="center" alt="Tausif Ansari Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+  
+  <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook)](https://github.com/TausifAnsari)
 

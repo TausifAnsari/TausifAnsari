@@ -67,11 +67,8 @@ Talk to me about
 
 
 <br />
-<br />
 
 ---
-
-
 
 <details>
   <summary>:zap: Github Stats</summary>

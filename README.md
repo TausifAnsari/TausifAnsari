@@ -68,7 +68,7 @@ Talk to me about
 ---
 
 <details>
-  <h4><summary>:zap: Github Stats</summary></h4>
+  <summary>:zap: Github Stats</summary>
   <br>
 
   <img align="center" alt="Tausif Ansari Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />

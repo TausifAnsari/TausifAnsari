@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-<br>
-
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working on ...

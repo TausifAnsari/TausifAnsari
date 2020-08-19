@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 --> 
 ---
 
-### Mohammed Tausif Uddin Ansari
+## Mohammed Tausif Uddin Ansari
 
 <p>
   <em>
-    Hi there 👋, I'm <b>Tausif Ansari</b>. Currently pursuing final year of <b>Bachelor of Engineering</b> in <b>Information Technology</b>. I'm a <b>Software Developer</b> who is passionate about making <b>open-source projects</b>,developing <b>web applications</b>, creating technology to elevate people, and building community.
+    Hi there 👋, I'm <b>Tausif Ansari</b>. Currently pursuing final year of <b>Bachelor of Engineering</b> in <b>Information Technology</b>. I'm a <b>Software Developer</b> who is passionate about making <b>open-source projects</b>, developing <b>web applications</b>, creating technology to elevate people, and building community.
   </em>
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -28,14 +28,10 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently developing web applications using MERN Stack
+- 🌱 I’m currently learning to solve complex Data structure and Algorithm problems
+- 👨‍🎓 I'm pursuing B.E in Informtaion Technology
+- 💌 You can reach me at mohammed.tausifansari@gmail.com
 
 <!--
 ## 👯 &nbsp;Communities

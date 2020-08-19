@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    Hi there 👋, I'm Tausif Ansari. I'm a **Full Stack Developer** who is passionate about making **open-source projects**, creating technology to elevate people, and building community.
+    Hi there 👋, I'm Tausif Ansari. I'm a <b>Full Stack Developer<b> who is passionate about making <b>open-source projects<b>, creating technology to elevate people, and building community.
   </em>
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -37,11 +37,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <br>
-
+<!--
 ## 👯 &nbsp;Communities
 - Facebook Developer Circle
 - Google Developer Group
 - AWS User Group
+-->
 
 <br>
 

@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.facebook.com/afnan.ansari.9/" target="_blank">
-  <img align="left" alt="Tausif's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Tausif's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
 <a href="https://leetcode.com/tausifansari/">
-  <img align="left" alt="Tausif's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Tausif's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 <br />
@@ -99,4 +99,6 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook)](https://github.com/TausifAnsari)
 
 </details>
+
+---
 

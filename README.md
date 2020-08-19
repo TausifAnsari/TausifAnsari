@@ -98,8 +98,6 @@ Here are some ideas to get you started:
   <summary><strong>⭐️ My Github Stats</strong></summary>
   <br>
   
-  [![github stats](https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby)](https://github.com/TausifAnsari)&nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TausifAnsari&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook)](https://github.com/TausifAnsari)
 
 </details>
 

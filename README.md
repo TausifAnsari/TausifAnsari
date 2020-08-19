@@ -46,21 +46,21 @@ Here are some ideas to get you started:
 ## 👯&nbsp;Connect with me:
 
 <a href="https://www.linkedin.com/in/tausifansari/" target="_blank">
-  <img align="left" alt="Tausif's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tausif's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://twitter.com/AfnanAnsari1">
-  <img align="left" alt="Tausif's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Tausif's Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 <a href="https://www.hackerrank.com/TA_007" target="_blank">
-  <img align="left" alt="Tausif's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+  <img align="left" alt="Tausif's Hackerrank" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
 </a>
 
 <a href="https://www.instagram.com/afnan_af_7/" target="_blank">
-  <img align="left" alt="Tausif's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Tausif's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 
 <a href="https://www.facebook.com/afnan.ansari.9/">
-  <img align="left" alt="Tausif's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Tausif's Telegram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Facebook.svg" />
 </a>
 
 <a href="https://leetcode.com/tausifansari/">

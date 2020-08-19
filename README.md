@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ---
 
 ## Mohammed Tausif Uddin Ansari
+<!--
 <img src="https://komarev.com/ghpvc/?username=TausifAnsari" />
+-->
 
 <p>
   <em>

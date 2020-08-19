@@ -90,7 +90,7 @@ Talk to me about
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary><strong>My Github Stats</strong></summary>
   <br>
 
   <img align="center" alt="Tausif Ansari Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TausifAnsari&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby" />

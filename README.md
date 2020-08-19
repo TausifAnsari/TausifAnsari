@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently developing web applications using MERN Stack
 - 🌱 I’m currently learning to solve complex Data structure and Algorithm problems
+- 👯 I’m looking to collaborate with other Developers
 - 👨‍🎓 I'm pursuing B.E in Informtaion Technology
 - 💌 You can reach me at mohammed.tausifansari@gmail.com
 

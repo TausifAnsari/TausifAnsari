@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://leetcode.com/tausifansari/">
-  <img align="left" alt="Tausif's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Tausif's Leetcode" width="22px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
 </a>
 
 <br />

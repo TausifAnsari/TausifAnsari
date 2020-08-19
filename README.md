@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     Hi there 👋, I'm <b>Tausif Ansari</b>. Currently pursuing final year of <b>Bachelor of Engineering</b> in <b>Information Technology</b>. I'm a <b>Software Developer</b> who is passionate about making <b>open-source projects</b>,developing <b>web applications</b>, creating technology to elevate people, and building community.
   </em>
 </p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 
 ## 👨🏻‍💻 &nbsp;About Me
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <!--
 ## 👯 &nbsp;Communities
 - Facebook Developer Circle

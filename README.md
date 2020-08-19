@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm Tausif Ansari </h2>
+### Hi there 👋, I'm Tausif Ansari
 <!--
 **TausifAnsari/TausifAnsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## ⚡ Technologies
+## 👨🏻‍💻 &nbsp;About Me
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (React)**
 - Backend development using **Mongo,Express,Node**

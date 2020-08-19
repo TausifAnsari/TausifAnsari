@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Tausif Ansari
 <!--
 **TausifAnsari/TausifAnsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,26 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+### Hi there 👋, I'm Tausif Ansari
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br>
 
 ## 👨🏻‍💻 &nbsp;About Me
 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (React)**
-- Backend development using **Mongo,Express,Node**
-- Solving Data structure and algorithm questions in **Python**
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <br>
 
-## 👯 Communities
+## 👯 &nbsp;Communities
 - Facebook Developer Circle
 - Google Developer Group
 - AWS User Group
 
 <br>
 
-### Connect with me:
+### &nbsp;Connect with me:
 
 <a href="https://www.linkedin.com/" target="_blank">
   <img align="left" alt="Shaik's LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -64,7 +69,7 @@ Talk to me about
 <br>
 
 
-### Languages and Tools:
+### 🛠 &nbsp;Languages and Tools:
 <code><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>

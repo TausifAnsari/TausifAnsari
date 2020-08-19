@@ -37,7 +37,7 @@ Talk to me about
 
 <br>
 
-### &nbsp;Connect with me:
+### 💌 &nbsp;Connect with me:
 
 <a href="https://www.linkedin.com/" target="_blank">
   <img align="left" alt="Shaik's LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

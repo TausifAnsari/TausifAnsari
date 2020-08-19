@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💌
-- 👨‍🎓 Studying Bachelors
+- 👨‍🎓
 --> 
 ---
 
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 ## 👯&nbsp;Connect with me:
 
 <a href="https://www.linkedin.com/in/tausifansari/" target="_blank">
-  <img align="left" alt="Tausif's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  <img align="left" alt="Tausif's LinkdeIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 <a href="https://twitter.com/AfnanAnsari1">
-  <img align="left" alt="Tausif's Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <img align="left" alt="Tausif's Twitter" width="22px" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" />
 </a>
 <a href="https://www.hackerrank.com/TA_007" target="_blank">
-  <img align="left" alt="Tausif's Hackerrank" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
+  <img align="left" alt="Tausif's Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 </a>
 
 <a href="https://www.instagram.com/afnan_af_7/" target="_blank">
-  <img align="left" alt="Tausif's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <img align="left" alt="Tausif's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/instagram-new/512/instagram-logo-color-512.png" />
 </a>
 
 <a href="https://www.facebook.com/afnan.ansari.9/" target="_blank">

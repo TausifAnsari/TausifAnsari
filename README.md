@@ -59,8 +59,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Tausif's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 
-<a href="https://www.facebook.com/afnan.ansari.9/">
-  <img align="left" alt="Tausif's Telegram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Facebook.svg" />
+<a href="https://www.facebook.com/afnan.ansari.9/" target="_blank">
+  <img align="left" alt="Tausif's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <a href="https://leetcode.com/tausifansari/">

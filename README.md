@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    Hi there 👋, I'm <b>Tausif Ansari</b>. Currently pursuing <b>Master of Science</b> in <b>Computer Science</b> from <b> Texas A&M University </b>. Also working as a Graduate Assistant with experience in developing and maintaing applications for the university. I'm a <b>Software Developer</b> with around 2 years of experience who is passionate about making <b>open-source projects</b>, developing <b>web applications</b>, creating technology to elevate people, and building community.
+    Hi there 👋, I'm <b>Tausif Ansari</b>. Currently pursuing <b>Master of Science</b> in <b>Computer Science</b> from <b> Texas A&M University </b>. Also working as a <b>Graduate Assistant</b> with experience in developing and maintaing applications for the university. I'm a <b>Software Developer</b> with around 2 years of experience who is passionate about making <b>open-source projects</b>, developing <b>web applications</b>, creating technology to elevate people, and building community.
   </em>
 </p>
   <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />-->

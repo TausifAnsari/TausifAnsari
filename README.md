@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 💻 I'm currently learning new technlogies to improve my technical knowledge.
 - 🌱 I’m currently learning to solve complex Data structure and Algorithm problems.
 - 💼 I am actively seeking opportunities in software development.
-- 📄 You can check my [Resume](https://drive.google.com/file/d/16csT-HZZ0ITHaaCjNLbVCmPyY5NFxQKO/view?usp=sharing) for more details about work experience.
+- 📄 You can check my [Resume](https://drive.google.com/file/d/1Y1-F9LTL-WcdmX3X05-rIUAWpe7JzEnT/view?usp=sharing) for more details about work experience.
 - 🌎 Check out my portfolio [here](https://tausifansari.vercel.app/);
 - 📫 Contact me via email at mohammed.tausifansari@gmail.com
 - 📝 Let's connect on [LinkedIn](https://www.linkedin.com/in/tausifansari/);

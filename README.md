@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
 
 ## 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently employed at Texas A&M University as a Graduate Assistant (Application Developer).
+- 🔭 I’m currently employed at Texas A&M University as a Graduate Programming Assistant (Application Developer).
 - 💻 I'm currently learning new technlogies to improve my technical knowledge.
 - 🌱 I’m currently learning to solve complex Data structure and Algorithm problems.
 - 💼 I am actively seeking opportunities in software development.

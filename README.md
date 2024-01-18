@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to solve complex Data structure and Algorithm problems.
 - 💼 I am actively seeking opportunities in software development.
 - 📄 You can check my [Resume](https://drive.google.com/file/d/16csT-HZZ0ITHaaCjNLbVCmPyY5NFxQKO/view?usp=sharing) for more details about work experience.
-- 🌎 Check out my portfolio [here](https://tausifansari.github.io/portfolio/);
+- 🌎 Check out my portfolio [here](https://tausifansari.vercel.app/);
 - 📫 Contact me via email at mohammed.tausifansari@gmail.com
 - 📝 Let's connect on [LinkedIn](https://www.linkedin.com/in/tausifansari/);
 
